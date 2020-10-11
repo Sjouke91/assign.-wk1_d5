@@ -1,0 +1,12 @@
+{
+    "firstName": "Sjouke",
+    "lastName": "Bosma",
+    "age": 28,
+    "City": "Amsterdam",
+    "hobbies": [
+      "cycling",
+      "swimming",
+      "music",
+      "coding"
+    ]
+  }

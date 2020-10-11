@@ -1,0 +1,8 @@
+{
+    "carbrands": {
+        "french": ["peugot", "renault", "citroen"],
+        "german": ["audi","vw","opel","seat"],
+        "Danish": ["volvo","scania"]
+    },
+    "bicycle brands": ["gazelle", "union", "B-twin"]
+}
